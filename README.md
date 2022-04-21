@@ -1,0 +1,2 @@
+# UTS_KECERDASAN-BUATAN
+UTS_Kecerdasan Buatan
